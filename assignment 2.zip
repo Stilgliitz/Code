@@ -1,0 +1,11 @@
+
+<html>
+    <head>
+    </head>
+    <body>
+        <div id= 'Start' class='screen' style='display:block'>
+            <GamepadButton onclick='Start()'>Start Game</GamepadButton>
+        </div>
+        <canvas id="canvas" style='display:none'></canvas>
+    </body>
+</html>
